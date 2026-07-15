@@ -32,8 +32,7 @@ TOY_CPU.xpr                → Vivado project file
 
 ## Full Report
 
-A detailed design report  covering ISA design rationale, datapath architecture, control unit logic, key design decisions and bugs found during development, simulation results, and hardware implementation  is included separately in the assignment submission.
-
+The full design report — covering ISA design rationale, datapath architecture, control unit logic, key design decisions and bugs found during development, simulation results, and hardware implementation — is available here: [ISA.pdf](./ISA.pdf)
 ## Author
 
 Pratham Agrawal — B.Tech Electronics and Communication Engineering, MANIT Bhopal
